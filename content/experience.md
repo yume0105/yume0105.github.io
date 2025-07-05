@@ -24,9 +24,9 @@ sections:
       username: admin
     design:
       show_skill_percentage: true
-  - block: resume-awards
+  - block: resume-extracurricularactivities
     content:
-      title: Awards
+      title: Extracurricular Activities
       username: admin
   - block: resume-languages
     content:
