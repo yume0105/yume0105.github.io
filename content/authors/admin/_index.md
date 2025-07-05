@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Student
+role: 修士課程学生（Master Student）
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Nara Institute of Science and Technology
+  - name: CARELAB, 奈良先端科学技術大学院大学(Nara Institute of Science and Technology)
     url: https://www.naist.jp/
 
 # Social network links
