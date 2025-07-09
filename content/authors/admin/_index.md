@@ -132,7 +132,7 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: tool
       - name: 文房具 / Stationery
         description: ''
         percent: 80
