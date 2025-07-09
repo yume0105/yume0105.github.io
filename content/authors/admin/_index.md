@@ -128,7 +128,7 @@ skills:
       - name: Knitting
         description: ''
         percent: 80
-        icon: tool
+        icon: tool_line
       - name: Cats
         description: ''
         percent: 100
