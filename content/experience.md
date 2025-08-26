@@ -33,8 +33,10 @@ sections:
       title: ""
       text: |
         ## Extracurricular Activities
-        - 脳トレゲーム制作コンペティション　準グランプリ(2022)
-        - 関西テック・クリエイター・チャレンジ　AI・IoT部門　採択(2025)
+        - 脳トレゲーム制作コンペティション　準グランプリ(2022)<br>Brain Training Game Development Competition Runner-Up Prize
+        - 関西テック・クリエイター・チャレンジ　AI・IoT部門　採択(2025)<br>Kansai Tech Creator Challenge AI/IoT Category Selected
+    design:
+      columns: '1' # Ensure full width
   - block: resume-languages
     content:
       title: Languages
