@@ -69,13 +69,14 @@ education:
     summary: |
       近業作業の抑制を促進する、さりげなく情報提示するディスプレイの開発を行っている。
 
-  - area: 学士(工学)BSc Engineering
+  - area: 学士(工学)　/ BSc Engineering
     institution: 鹿児島大学/Kagoshima University
     date_start: 2021-04-01
     date_end: 2025-03-31
     summary: |
       GPA: 3.35/4.0
       情報工学の基礎を学びました。自然言語処理を用いたWebアプリを開発し、会話から指示文を抽出し提示するシステムを完成させました。
+      |
       主なコース/Courses included:
       - プログラミング / アルゴリズム
       - 人工知能 / 機械学習
