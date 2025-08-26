@@ -80,7 +80,8 @@ education:
       - プログラミング / アルゴリズム
       - 人工知能 / 機械学習
       - 信号処理 / ネットワーク
-#work:
+
+# work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
 #    company_url: ''
@@ -175,12 +176,18 @@ languages:
 #    summary: |
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 
-Extracurricular Activities:
-  - title: 脳トレ
-    url:
-    date:
+extracurricular_activities:
+  - title: 2022年　脳トレゲーム制作コンペティション　準グランプリ
+    url: https://jemtcgamecontests.net/202211result/
+    date: '2022-11-05'
     summary: |
       チームでのゲーム制作でプログラミングを担当。
+  - title: 2025年　関西テック・クリエイター・チャレンジ　AI・IoT部門　採択
+    url:
+    date: '2025-08-21'
+    summary: |
+      採択
+
 
 ---
 
