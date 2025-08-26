@@ -129,12 +129,11 @@ skills:
       - name: Knitting
         description: ''
         percent: 80
-        icon: tool_line
-        icon_pack: custom
+        icon: custom/tool_line
       - name: Cats
         description: ''
         percent: 100
-        icon: tool
+        icon: custom/tool
       - name: 文房具 / Stationery
         description: ''
         percent: 80
