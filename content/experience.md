@@ -24,6 +24,7 @@ sections:
       username: admin
     design:
       show_skill_percentage: true
+      align: "center"
   - block: resume-awards
     content:
       title: Awards
