@@ -30,9 +30,11 @@ sections:
       username: admin
   - block: markdown
     content:
-      title: Extracurricular Activities
-      body: |
-        {{< extracurricular_activities username="admin" >}}
+      title: ""
+      text: |
+        ## Extracurricular Activities
+        - 脳トレゲーム制作コンペティション　準グランプリ(2022)
+        - 関西テック・クリエイター・チャレンジ　AI・IoT部門　採択(2025)
   - block: resume-languages
     content:
       title: Languages
