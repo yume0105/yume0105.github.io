@@ -129,7 +129,7 @@ skills:
       - name: Knitting
         description: ''
         percent: 80
-        icon: tool_line
+        icon: custom/tool_line
       - name: Cats
         description: ''
         percent: 100
