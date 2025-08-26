@@ -129,7 +129,8 @@ skills:
       - name: Knitting
         description: ''
         percent: 80
-        icon: "fab/person-hiking"
+        icon: person-hiking
+        icon_pack: fab
       - name: Cats
         description: ''
         percent: 100
