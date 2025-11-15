@@ -33,7 +33,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:masuya.yume.mx5@naist.ac.jp'
+    url: 'mailto:yume.masuya@gmail.com'
     label: E-mail Me
   # - icon: brands/x
   #  url: https://twitter.com/GetResearchDev
@@ -42,14 +42,16 @@ profiles:
   - icon: brands/github
     url: https://github.com/yume0105
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yume-masuya-738148366
+    url: https://www.linkedin.com/in/yume-masuya
+  - icon: brands/facebook
+    url: https://www.facebook.com/yumemasuya
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   #- icon: academicons/orcid
   #  url: https://orcid.org/
 
 interests:
-  - VR
+  - Lifelog
   - Information Dispay
 
 education:
@@ -67,7 +69,7 @@ education:
     date_start: 2025-04-01
     date_end: 2027-03-31
     summary: |
-      近業作業の抑制を促進する、さりげなく情報提示するディスプレイの開発を行っている。
+      小児のための近業抑制システムの開発を行っています。
 
   - area: 学士(工学)　/ BSc Engineering
     institution: 鹿児島大学/Kagoshima University
@@ -194,4 +196,4 @@ extracurricular_activities:
 
 ## About Me
 
-升屋結女は奈良先端科学技術大学院大学の修士課程学生です。
+升屋結女は奈良先端科学技術大学院大学の修士課程学生です。現在は、小児のための近業抑制システムの開発に取り組んでいます。また、ライフログの活用についての研究もしています。
